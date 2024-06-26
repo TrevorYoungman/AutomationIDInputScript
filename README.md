@@ -6,8 +6,11 @@ The provided script should be easy to modify for any specific use cases.
 # AutomationIDScript
 
 AutomationIDScript program requires 3 arguments: ProcessName AutomationID InputText
+
 ProcessName: The name of the running process to search for
+
 AutomationID: The AutomationID of the element in the process to search for
+
 InputText: The text to be set in the TextBox found with the AutomationID
 
 The 'Enter' key will be pressed after successfully setting the text
