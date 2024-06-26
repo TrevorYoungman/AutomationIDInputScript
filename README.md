@@ -13,6 +13,7 @@ AutomationID: The AutomationID of the element in the process to search for
 
 InputText: The text to be set in the TextBox found with the AutomationID
 
+
 The 'Enter' key will be pressed after successfully setting the text
 
 # TestApplication 
